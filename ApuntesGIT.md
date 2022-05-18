@@ -23,9 +23,8 @@ git config --global -e
 git config --global core.autocrlf True
 ```
 ---
-### Fin Configuracion inicial
 
-
+### Comandos para trabajar en un repositorio:
 
 - Para inicializar un repo:
 ```
