@@ -1,7 +1,8 @@
 # Git comandos basicos
 
 
-###configuracion inicial###
+### Configuracion inicial 
+---
 ```
 git config --global user.name "Tu Nombre"
 ```
@@ -21,7 +22,8 @@ git config --global -e
 ```
 git config --global core.autocrlf True
 ```
-###Fin Configuracion inicial###
+---
+### Fin Configuracion inicial
 
 
 
@@ -89,3 +91,5 @@ git checkout <nombre-rama>
 ```
 git checkout -b ＜nombre de tu nueva rama＞ 
 ```
+
+
